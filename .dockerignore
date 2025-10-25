@@ -1,0 +1,6 @@
+my_venv/
+.git
+__pycache__/
+*.pyc
+*.log
+*.ipynb_checkpoints
